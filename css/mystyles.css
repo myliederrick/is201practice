@@ -1,0 +1,16 @@
+body{
+    font-family:'cursive;'
+}
+site-heading-lower{
+    font-family: 'cursive';
+}
+.mb-3{
+    font-family: 'cursive';
+    color: yellow !important;
+}
+.notyellow{
+    color: black;
+}
+.intro-text{
+    box-shadow: 5px 5px 10px gray rbga(0, 0, 0, 0)
+}
